@@ -1,0 +1,81 @@
+body{
+    background-color: white;
+   
+}
+#contenu{
+    background-color: rgba(216, 191, 216, 0.315);
+   
+}
+header{
+    height: 70px;
+}
+img{
+    width: 190px;
+    height: 170px;
+}
+#presentation{
+    list-style: none;
+   
+}
+.tag{
+    color: blue;
+    font-size: 20px;
+}
+.deb{
+    margin-left: -22px;
+    font-size: 23px;
+}
+.red-divider{
+    width: 250px;
+    height: 07px;
+    background-color: red;
+    margin: 0 auto;
+    
+}
+.red-divider1{
+    
+    height: 07px;
+    background-color: red;
+    margin: 0 auto;
+    
+}
+#valeurs li{
+    font-size: 22px;
+    border: 1px solid rgba(124, 123, 123, 0.699);
+    border-radius: 6px;
+    list-style: none;
+    margin-top: 10px;
+}
+#valeurs{
+    margin-left: -35px;
+   
+}
+#valeurs li:hover{
+    color: white;
+    background-color: rgba(255, 0, 0, 0.514);;
+    
+}
+#experiences li{
+    list-style: none;
+
+}
+.exp1 h3{
+    display: inline-flex;
+}
+.localisation{
+    margin-left: 200px;
+}
+.CompetencesBloc2{
+    margin-left: -18px;
+}
+#preferences{
+    margin-left: -30px;
+}
+#preferences li{
+     list-style: none;
+     font-size: 22px;
+
+}
+footer{
+    margin-top: 10px;
+}
